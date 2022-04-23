@@ -1,2 +1,5 @@
 # App-BankLine-Android
-Projeto da disciplina de Arquitetura de software para celulares da residência em Robótica e IA aplicados a teste de software do CIn-UFPE/Softex.  Essa aplicação Android visa identificar as funções dos dispositivos android como nível, saúde e tempo para a carga total da bateria, status do wi-fi e lista de apps instalados.
+
+Projeto da disciplina de Programação Orientada a Objetos para Java-Android da residência em Robótica e IA aplicados a teste de software do CIn-UFPE/Softex.
+
+Essa aplicação Android feita em Java visa realizar as operações de um aplicativo de banco (bankline) como criação de contas, transferências de valores, débito, crédito, pesquisa por nome, CPF e número da conta, bem como a quantidade de clientes cadastrados e o total de valores no banco.
